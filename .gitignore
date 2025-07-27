@@ -1,0 +1,88 @@
+## Ignore Visual Studio temporary files, build results, and
+## user-specific files
+
+# Build results
+bin/
+obj/
+[Bb]uild/
+[Bb]uild[Ll]og.*
+
+# Visual Studio files
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider project files
+.idea/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# IIS Express
+.vs/
+*.vspscc
+*.vssscc
+*.cache
+*.dbmdl
+*.dbproj.schemaview
+*.pdb
+*.publish.xml
+
+# User-specific files
+*.userprefs
+*.sln.docstates
+
+# Web config transforms
+*.Transform.*
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+packages/
+# Uncomment if using package restore
+# !packages/repositories.config
+
+# Azure Web Apps settings
+PublishProfiles/
+
+# DotCover
+.idea/.dotCover
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# Logs
+*.log
+
+# DotNetCore
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# NPM / Node modules (if using frontend tooling)
+node_modules/
+
+# Libman
+wwwroot/lib/
+
+# Static files from bundling/minification
+*.bundle.js
+*.min.js
+*.min.css
+*.map
+
+# Secrets
+secrets.json
+
+# Entity Framework
+*.efproj
+Migrations/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
